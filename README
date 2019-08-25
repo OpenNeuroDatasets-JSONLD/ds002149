@@ -1,8 +1,8 @@
 This is the functional and structural MRI data used for the following studies:
-
+```
 Hamm, A.G. and Mattfeld, A. T. (in press) Disting Neural Circuits Underlie Prospective
 and Concurrent Memory-Guided Behavior, Cell Reports
-
+```
 
 Folders are organised in subject number (e.g. sub-001). Within each folder there are subfolders with the following:
 
