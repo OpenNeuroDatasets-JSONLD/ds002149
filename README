@@ -10,6 +10,8 @@ Folders are organised in subject number (e.g. sub-001). Within each folder there
 1) anat - T1-weighted structural scan
 
 2) func - contains BOLD data for:
-```Our novel conditional visual associative learning task, with kaleidoscopic images used as stimuli with 6 scans across three sets of images. ```
+```
+Our novel conditional visual associative learning task, with kaleidoscopic images used as stimuli with 6 scans across three sets of images. 
+```
 
 Please note that not all participants finished all tasks, or scans. See papers for a description.
