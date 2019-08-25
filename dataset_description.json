@@ -7,5 +7,6 @@
         "Aaron T. Mattfeld"
     ],
     "DatasetDOI": "10.18112/openneuro.ds002149.v1.0.0",
-    "License": "CC0"
+    "License": "CC0",
+    "HowToAcknowledge": "Hamm, A.G. and Mattfeld, A. T. (in press) Disting Neural Circuits Underlie Prospective\nand Concurrent Memory-Guided Behavior, Cell Reports"
 }
