@@ -1,0 +1,11 @@
+{
+    "Name": "Conditional Visual Associative Learning Task",
+    "BIDSVersion": "1.1.1",
+    "Authors": [
+        "Adam Kimbler",
+        "Amanda G. Hamm",
+        "Aaron T. Mattfeld"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002149.v1.0.0",
+    "License": "CC0"
+}
