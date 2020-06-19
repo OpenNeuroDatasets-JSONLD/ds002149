@@ -1,8 +1,0 @@
-filename	acq_time
-/anat/sub-001_run-01_T1w.nii.gz	1800-01-01T15:55:50
-/func/sub-001_task-condassoc_run-01_bold.nii.gz	1800-01-01T16:10:15
-/func/sub-001_task-condassoc_run-02_bold.nii.gz	1800-01-01T16:18:21
-/func/sub-001_task-condassoc_run-03_bold.nii.gz	1800-01-01T16:26:38
-/func/sub-001_task-condassoc_run-04_bold.nii.gz	1800-01-01T16:34:38
-/func/sub-001_task-condassoc_run-05_bold.nii.gz	1800-01-01T16:43:33
-/func/sub-001_task-condassoc_run-06_bold.nii.gz	1800-01-01T16:51:23
